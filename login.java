@@ -3,6 +3,16 @@ public static void main()
 {
 int = 10
 char= a
+float
 
+
+
+
+
+
+getch()
+
+}
+}
 }
 
