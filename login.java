@@ -1,18 +1,9 @@
 public static void main()
 #include
 {
-int = 10
-char= a
-float
-
-
-
-
-
-
+int =a;
 getch()
 
 }
 }
-}
-nwsh
+
