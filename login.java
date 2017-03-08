@@ -1,6 +1,7 @@
 public static void main(string args[]);
 {
 int=a;
-happy journey
+char= 10;
+getch();
 }
-gtech
+}
