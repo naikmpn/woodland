@@ -1,4 +1,10 @@
-public  class
+public static void maim();
+
 {
+
+
+
+
+
 }
 
