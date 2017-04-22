@@ -1,1 +1,4 @@
-hai praveen
+public  class
+{
+}
+
